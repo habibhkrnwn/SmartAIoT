@@ -1,7 +1,7 @@
 # 🎶 3D Audio Visualization (SmartAIoT Project)
 
 <p align="center">
-  <img src="assets/smartiot.png" alt="SmartAIoT Logo" width="200"/>
+  <img src="assets/logo.png" alt="SmartAIoT Logo" width="200"/>
 </p>
 
 Proyek ini merupakan bagian dari **SmartAIoT**, yang berfokus pada solusi berbasis **Artificial Intelligence of Things (AIoT)**.  
